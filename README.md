@@ -1,0 +1,2 @@
+# LeetcodeMediumQ
+Leetcode Medium Questions
